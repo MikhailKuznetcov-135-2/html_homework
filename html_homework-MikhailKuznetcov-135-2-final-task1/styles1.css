@@ -1,0 +1,16 @@
+h1 { font-size: 2{,}5em; }
+h2 { font-size: 1{,}8em; }
+h3 { font-size: 1em; }
+
+.bold-text {
+  font-weight: bold;
+}
+
+.italic-text {
+  font-style: italic;
+}
+
+.bold-italic-text {
+  font-weight: bold;
+  font-style: italic;
+}
